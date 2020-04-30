@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Lm27Du31No3xu2pODKSOgdaIQoh2l3G6uUgp2nSPbXMZnay1BqoftqXhGO38sbyoj7UF4cChCVf1AuV+pysrUg==",
+  "dgSpecHash": "DFx1OxH6Wn4U6AqubxhfMsZaYuiXbOuzDQO7byil0xzTdAOAHi7LMHe2oMK+bSuNU5ML5dGPIdS+TDWNQ6frPg==",
   "success": true,
   "projectFilePath": "C:\\Users\\SoftClansTech\\source\\repos\\TodoApi\\TodoApi\\TodoApi.csproj",
   "expectedPackageFiles": [
@@ -25,13 +25,13 @@
     "C:\\Users\\SoftClansTech\\.nuget\\packages\\microsoft.entityframeworkcore\\3.1.3\\microsoft.entityframeworkcore.3.1.3.nupkg.sha512",
     "C:\\Users\\SoftClansTech\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\3.1.3\\microsoft.entityframeworkcore.abstractions.3.1.3.nupkg.sha512",
     "C:\\Users\\SoftClansTech\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\3.1.3\\microsoft.entityframeworkcore.analyzers.3.1.3.nupkg.sha512",
-    "C:\\Users\\SoftClansTech\\.nuget\\packages\\microsoft.entityframeworkcore.design\\3.1.2\\microsoft.entityframeworkcore.design.3.1.2.nupkg.sha512",
+    "C:\\Users\\SoftClansTech\\.nuget\\packages\\microsoft.entityframeworkcore.design\\3.1.3\\microsoft.entityframeworkcore.design.3.1.3.nupkg.sha512",
     "C:\\Users\\SoftClansTech\\.nuget\\packages\\microsoft.entityframeworkcore.inmemory\\3.1.3\\microsoft.entityframeworkcore.inmemory.3.1.3.nupkg.sha512",
     "C:\\Users\\SoftClansTech\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\3.1.3\\microsoft.entityframeworkcore.relational.3.1.3.nupkg.sha512",
     "C:\\Users\\SoftClansTech\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite\\3.1.2\\microsoft.entityframeworkcore.sqlite.3.1.2.nupkg.sha512",
     "C:\\Users\\SoftClansTech\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite.core\\3.1.2\\microsoft.entityframeworkcore.sqlite.core.3.1.2.nupkg.sha512",
     "C:\\Users\\SoftClansTech\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\3.1.3\\microsoft.entityframeworkcore.sqlserver.3.1.3.nupkg.sha512",
-    "C:\\Users\\SoftClansTech\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\3.1.2\\microsoft.entityframeworkcore.tools.3.1.2.nupkg.sha512",
+    "C:\\Users\\SoftClansTech\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\3.1.3\\microsoft.entityframeworkcore.tools.3.1.3.nupkg.sha512",
     "C:\\Users\\SoftClansTech\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\3.1.3\\microsoft.extensions.caching.abstractions.3.1.3.nupkg.sha512",
     "C:\\Users\\SoftClansTech\\.nuget\\packages\\microsoft.extensions.caching.memory\\3.1.3\\microsoft.extensions.caching.memory.3.1.3.nupkg.sha512",
     "C:\\Users\\SoftClansTech\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.3\\microsoft.extensions.configuration.3.1.3.nupkg.sha512",
