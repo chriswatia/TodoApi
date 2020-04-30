@@ -30,6 +30,23 @@ namespace TodoApi
             string connectionString = Configuration.GetConnectionString("DefaultConnection");
             services.AddDbContext<TodoContext>(opt =>opt.UseSqlServer(connectionString));
 
+            services.AddSwaggerGen(c =>
+            {
+                c.SwaggerDoc("v1", new Microsoft.OpenApi.Models.OpenApiInfo
+                {
+                    Version = "v1",
+                    Title = "Todo Rest API",
+                    Description = "Todo Rest API using ASP.NET Core ",
+                    //TermsOfService = "None",
+                    Contact = new Microsoft.OpenApi.Models.OpenApiContact()
+                    {
+                        Name = "Chris Watia",
+                        Email = "chriswatia@gmail.com",
+                        //Url = "https://twitter.com/chriswatia"
+                    }
+                });
+            });
+
             services.AddControllers();
         }
 
@@ -42,6 +59,15 @@ namespace TodoApi
             }
 
             app.UseHttpsRedirection();
+
+            app.UseSwagger();
+
+            //Enable middleware to use swagger-ui
+            //Specifying the Swagger Json endpoint
+            app.UseSwaggerUI(opt =>
+            {
+                opt.SwaggerEndpoint("/swagger/v1/swagger.json", "Cool ASP.NET Core rest API");
+            }); 
 
             app.UseRouting();
 
